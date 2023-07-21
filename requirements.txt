@@ -1,0 +1,10 @@
+streamlit==0.88.0
+folium==0.12.1
+geopy==2.2.0
+streamlit_folium==0.4.0
+Pillow==8.3.1
+streamlit_option_menu==1.2.0
+pandas==1.3.1
+pydeck==0.7.0
+streamlit_chat==0.1.0
+openai==0.31.0
